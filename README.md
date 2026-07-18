@@ -38,9 +38,14 @@
 A simple app for making decisions. My first project, deployed and live in production.
 > `React` · `TypeScript` · `Vite` · `Express` · Deployed on Vercel
 
+[![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DavidMo01-esp/DecideYa)
+[![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://decide-ya.vercel.app/)
 ### 🧪 Qonforma
 A laboratory quality control management app: material catalog, sample registration, automatic conformance validation and dashboard.
-> `React` · `JavaScript` · `Express` · `SQLite` · `Prisma` · `JWT`
+> `React` · `JavaScript` · `Express` · `SQLite` · `Prisma` · `JWT`. Deployed on Render
+
+> [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DavidMo01-esp/Qonforma)
+> [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://qonforma.onrender.com/login)
 
 ### 🎲 LocalBoggle (in progress...)
 A real-time multiplayer Boggle-style game with an ELO ranking system.
@@ -59,5 +64,3 @@ A real-time multiplayer Boggle-style game with an ELO ranking system.
 ## 📊 Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DavidMo01-esp&theme=radical&mode=weekly)](https://git.io/streak-stats)
-
-[![Most Used Languages](https://raw.githubusercontent.com/DavidMo01-esp/github-stats-transparent/output/generated/languages.svg)
