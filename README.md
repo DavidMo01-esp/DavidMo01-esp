@@ -58,6 +58,6 @@ A real-time multiplayer Boggle-style game with an ELO ranking system.
 
 ## 📊 Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DavidMo01-esp&show_icons=true&theme=default)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DavidMo01-esp&theme=radical&mode=weekly)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMo01-esp&layout=compact&theme=default)
+![DavidMo01-esp's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
