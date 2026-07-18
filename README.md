@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/30148498/README.1.md)
 # Hi, I'm David 👋
 
 **Junior Developer** with a hybrid background in **laboratory quality control** and **software development**. Graduated in Multiplatform Application Development (DAM) and currently working as a Quality Analysis Technician while looking for my first role as a developer.
@@ -52,11 +51,8 @@ A real-time multiplayer Boggle-style game with an ELO ranking system.
 ## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidMo01-esp)
-
-<!-- Add your LinkedIn and email here if you want:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dev-dam/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david2001criado@gmail.com)
--->
 
 ---
 
