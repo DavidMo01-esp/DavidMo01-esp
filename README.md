@@ -1,22 +1,22 @@
-# Hola, soy David 👋
+[README (1).md](https://github.com/user-attachments/files/30148498/README.1.md)
+# Hi, I'm David 👋
 
-**Desarrollador Junior** con perfil híbrido entre **calidad de laboratorio** y **desarrollo de software**. Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) y actualmente trabajando como Técnico de Análisis de Calidad, buscando mi primer puesto como developer.
+**Junior Developer** with a hybrid background in **laboratory quality control** and **software development**. Graduated in Multiplatform Application Development (DAM) and currently working as a Quality Analysis Technician while looking for my first role as a developer.
 
-📍 Guadalajara / Corredor del Henares — España
-
----
-
-## 🚀 Sobre mí
-
-- 🎓 Graduado en **DAM** (Desarrollo de Aplicaciones Multiplataforma)
-- 🔬 +4 años como **Técnico de Análisis de Calidad** en entorno de laboratorio
-- 💻 Enfocado en desarrollo **full-stack** con React, TypeScript y Node
-- 🧩 Mi diferencial: entiendo tanto el **código** como los **procesos de calidad y validación**
-- 📚 Aprendiendo continuamente y construyendo proyectos reales
+📍 Guadalajara / Guadalajara — Spain
 
 ---
 
-## 🛠️ Stack
+## 🚀 About me
+
+- 🎓 Graduated in **Multiplatform Application Development (DAM)**
+- 🔬 4+ years as a **Quality Analysis Technician** in a laboratory environment
+- 🧩 My edge: I understand both the **code** and the **quality and validation processes** behind it
+- 📚 Always learning and building real-world projects
+
+---
+
+## 🛠️ Tech Stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,40 +33,35 @@
 
 ---
 
-## 📦 Proyectos destacados
+## 📦 Featured Projects
 
 ### 🎯 DecideYa
-App para tomar decisiones de forma sencilla. Mi proyecto principal, desplegado y en producción.
-> `React` · `TypeScript` · `Vite` · `Express` · Deploy en Vercel
+A simple app for making decisions. My first project, deployed and live in production.
+> `React` · `TypeScript` · `Vite` · `Express` · Deployed on Vercel
 
 ### 🧪 Qonforma
-Aplicación de gestión de control de calidad para laboratorio: catálogo de materiales, registro de muestras, validación automática de conformidad y dashboard.
-> `React` · `TypeScript` · `Express` · `SQLite` · `Prisma` · `JWT`
+A laboratory quality control management app: material catalog, sample registration, automatic conformance validation and dashboard.
+> `React` · `JavaScript` · `Express` · `SQLite` · `Prisma` · `JWT`
 
-### 🎲 LocalBoggle
-Juego multijugador tipo Boggle en tiempo real, con sistema de ranking ELO.
+### 🎲 LocalBoggle (in progress...)
+A real-time multiplayer Boggle-style game with an ELO ranking system.
 > `Flask` · `Socket.io` · `Python`
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DavidMo01-esp)
 
-<!-- Añade aquí tu LinkedIn y email si quieres:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+<!-- Add your LinkedIn and email here if you want:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-dev-dam/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david2001criado@gmail.com)
 -->
 
 ---
 
-## 📊 Estadísticas
+## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=DavidMo01-esp&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMo01-esp&layout=compact&theme=default)
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
