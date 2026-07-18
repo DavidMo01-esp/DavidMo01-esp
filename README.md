@@ -45,7 +45,7 @@ A laboratory quality control management app: material catalog, sample registrati
 > `React` · `JavaScript` · `Express` · `SQLite` · `Prisma` · `JWT`. Deployed on Render
 
 > [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DavidMo01-esp/Qonforma)
-> [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://qonforma.onrender.com/login)
+> [![Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=render&logoColor=white)](https://qonforma.onrender.com/login)
 
 ### 🎲 LocalBoggle (in progress...)
 A real-time multiplayer Boggle-style game with an ELO ranking system.
